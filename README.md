@@ -62,9 +62,8 @@ const bipin = {
 }
 ```
 
-#### Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipinkarkii77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="bipinkarki"></a></p>
+
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
