@@ -82,7 +82,7 @@ const bipin = {
 
 
 #### Contribution Graph
-[![Aakash khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aakashkhatri77&theme=react-dark)](https://github.com/Aakashkhatri77/github-readme-activity-graph)
+(https://activity-graph.herokuapp.com/graph?username=Aakashkhatri77&theme=react-dark)](https://github.com/Aakashkhatri77/github-readme-activity-graph)
 
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
