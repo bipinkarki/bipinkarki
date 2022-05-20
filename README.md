@@ -13,7 +13,7 @@
 
 ## 🧐 About
 
-- 📫 How to reach me: imanmalekian31@gmail.com
+- 📫 How to reach me: bipinkarki54@gmail.com
 - 🌱 Languages and Tools:
 
     <div>
@@ -37,16 +37,26 @@
         </code>
         <code>
 
-
+ #### A little more about me
+```javascript
+const bipin = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "python", "HTML", "CSS", "Nodejs"],
+  askMeAbout: ["web dev", "backend dev"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
+      backend: [Django, "Nodejs", "SQL Server"],
+            } 
+   }
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/javascript/)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="javascript" width="100">](https://docs.oracle.com/en/javascript/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 
 
 
 
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
+
 
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
@@ -81,18 +91,8 @@ a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Jav
   <li>🧐 Portfolio Website, /</li>
 </ul>
 
-#### A little more about me
-```javascript
-const bipin = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "python", "HTML", "CSS", "Nodejs"],
-  askMeAbout: ["web dev", "backend dev"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
-      backend: [Django, "Nodejs", "SQL Server"],
-  }
-}
-```
+
+
 
 
 
