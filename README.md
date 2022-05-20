@@ -40,6 +40,58 @@
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
 
 ------
+a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+<ul>
+  <li>👋 Hi, I’m @MrAakash khatri</li>
+  <li>❤️ I love Creating websites and Programming in C#.</li>
+  <li>🌱 I’m currently learning Web Development, C#, SQL Server, OOP and ASP.NET, MVC</li>
+  <li>👯 I’m looking forward to collaborate on open source projects.</li>
+  <li>   Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
+  <li>🧐 Portfolio Website, https://aakashkhatri77.github.io/aakashkhatri.github.io/</li>
+</ul>
+
+#### A little more about me
+```javascript
+const aakash = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs", "Kotlin"],
+  askMeAbout: ["web dev", "frontend dev"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
+      backend: [C#, ".Net", "SQL Server"],
+  }
+}
+```
+
+#### Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakashkhatri77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrAakashkhatri77"></a></p>
+
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Aakashkhatri77&show_icons=true&include_all_commits=true&theme=onedark" alt="aakash's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aakashkhatri77&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashkhatri77&theme=onedark" alt="Aakashkhatri77" />
+</p>
+
+
+
+#### Contribution Graph
+[![Aakash khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aakashkhatri77&theme=react-dark)](https://github.com/Aakashkhatri77/github-readme-activity-graph)
+
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg?username=Aakashkhatri77&theme=react-dark" alt="snake"></center>
+</p>
+
 
 [Aleksey-Voko](https://github.com/BipinKarki)
 
