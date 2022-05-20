@@ -16,6 +16,18 @@
 - 📫 How to reach me: bipinkarki54@gmail.com
 - 🌱 Languages and Tools:
 
+------
+a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+<ul>
+  <li>👋 Hi, I’m @MrBipin karki</li>
+  <li>❤️ I love Creating websites and Programming in Python and Javascript.</li>
+  <li>🌱 I’m currently learning Web Development, Django,Nodejs,Momgodb, SQL Server, OOP, MVC</li>
+  <li>👯 I’m looking forward to collaborate on open source projects.</li>
+  <li>   Outside tech, 📖 I love sports, 🎵 listen to music, and explore diversity.</li>
+  <li>🧐 Portfolio Website, /</li>
+</ul>
+
+
     <div>
         <code>
         <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5" alt="HTML5" title="HTML5" height="25" />
@@ -79,18 +91,6 @@ const bipin = {
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
-
-------
-a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-<ul>
-  <li>👋 Hi, I’m @MrBipin karki</li>
-  <li>❤️ I love Creating websites and Programming in Python and Javascript.</li>
-  <li>🌱 I’m currently learning Web Development, Django,Nodejs,Momgodb, SQL Server, OOP, MVC</li>
-  <li>👯 I’m looking forward to collaborate on open source projects.</li>
-  <li>   Outside tech, 📖 I love sports, 🎵 listen to music, and explore diversity.</li>
-  <li>🧐 Portfolio Website, /</li>
-</ul>
-
 
 
 
