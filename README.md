@@ -8,15 +8,14 @@
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/javascript/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+
 
 
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
+
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
@@ -42,30 +41,30 @@
 ------
 a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 <ul>
-  <li>👋 Hi, I’m @MrAakash khatri</li>
-  <li>❤️ I love Creating websites and Programming in C#.</li>
-  <li>🌱 I’m currently learning Web Development, C#, SQL Server, OOP and ASP.NET, MVC</li>
+  <li>👋 Hi, I’m @MrBipin karki</li>
+  <li>❤️ I love Creating websites and Programming in Python and Javascript.</li>
+  <li>🌱 I’m currently learning Web Development, Django,Nodejs,Momgodb, SQL Server, OOP, MVC</li>
   <li>👯 I’m looking forward to collaborate on open source projects.</li>
-  <li>   Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
-  <li>🧐 Portfolio Website, https://aakashkhatri77.github.io/aakashkhatri.github.io/</li>
+  <li>   Outside tech, 📖 I love sports, 🎵 listen to music, and explore diversity.</li>
+  <li>🧐 Portfolio Website, /</li>
 </ul>
 
 #### A little more about me
 ```javascript
-const aakash = {
+const bipin = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs", "Kotlin"],
-  askMeAbout: ["web dev", "frontend dev"],
+  code: ["Javascript", "python", "HTML", "CSS", "Nodejs"],
+  askMeAbout: ["web dev", "backend dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
-      backend: [C#, ".Net", "SQL Server"],
+      backend: [Django, "Nodejs", "SQL Server"],
   }
 }
 ```
 
 #### Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakashkhatri77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrAakashkhatri77"></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipinkarkii77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="bipinkarki"></a></p>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -93,6 +92,6 @@ const aakash = {
 </p>
 
 
-[Aleksey-Voko](https://github.com/BipinKarki)
+(https://github.com/BipinKarki)
 
 Last Edited on: 16/11/2021
