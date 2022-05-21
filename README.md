@@ -24,8 +24,7 @@ a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Jav
   <li>🌱 I’m currently learning Web Development, Django,Nodejs,Momgodb, SQL Server, OOP, MVC</li>
   <li>👯 I’m looking forward to collaborate on open source projects.</li>
   <li>   Outside tech, 📖 I love sports, 🎵 listen to music, and explore diversity.</li>
-  <li>🧐 Portfolio Website, /</li>
-</ul>
+
 
 
     <div>
