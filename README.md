@@ -27,27 +27,7 @@ a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Jav
 
 
 
-    <div>
-        <code>
-        <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5" alt="HTML5" title="HTML5" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=229EEB" alt="CSS3" title="CSS3" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap" title="Bootstrap" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass" alt="Sass" title="Sass" height="25" />
-        </code>
-        <code>
-
+   
  #### A little more about me
 ```javascript
 const bipin = {
