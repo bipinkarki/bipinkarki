@@ -145,10 +145,6 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/bipinkarki/bipinkarki/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 -----
 Credits:Bipinkarki[https://github.com/bipinkarki/bipinkarki]
