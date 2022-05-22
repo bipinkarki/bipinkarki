@@ -24,7 +24,7 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and backend frameworks like django and nodejs and is also passionate learn libraries to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >I specialize in the use of Python Programming Language and backend frameworks like django and nodejs and is also passionate learn more about data and generating insights from it.
 </p>
 
 
