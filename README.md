@@ -62,7 +62,7 @@
   </a>
 </p>
 
-## Projects
+<!-- ## Projects
 
 <!-- <a href="https://github.com/Nneji123/Website-Blocker"> -->
 
@@ -70,7 +70,7 @@
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
-</a>  
+</a>   -->
 
 <!-- <a href="https://github.com/Nneji123/Alien-Shooter"> -->
 
