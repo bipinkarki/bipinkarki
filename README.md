@@ -24,7 +24,7 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and backend frameworks like django and nodejs and is also passionate learn more about data and generating insights from it.
+<p >I specialize in backend development and frameworks like django and nodejs and is also passionate learn more about data and generating insights from it.
 </p>
 
 
